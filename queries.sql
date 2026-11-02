@@ -1,4 +1,3 @@
-
 -- EduTrack - Auditoria de Datos
 -- Tablas Relacionadas
 
